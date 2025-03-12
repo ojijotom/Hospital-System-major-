@@ -1,4 +1,4 @@
-#!/home/emobilis/PycharmProjects/hospitalsystem/hospital/bin/python3
+#!/home/emobilis/PycharmProjects/Hospital-System-major-/hospital/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
